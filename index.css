@@ -512,15 +512,22 @@ body{
     }
 
     .div7 h5{
-        font-size: 60px;
+        font-size: 80px;
         font-weight: 100;
     }
 
     .div8{
         flex-direction: column;
+        font-size: 60px;
     }
+
+
     .div9{
-        gap: 60px;
+        gap: 80px;
+    }
+    .div9 img{
+        width:100px;
+        height: 100px;
     }
 
     
