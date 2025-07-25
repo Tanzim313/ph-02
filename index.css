@@ -321,7 +321,9 @@ body{
     .div4{
         display: flex;
         flex-direction: column;
-        padding: ;
+
+        width: 90vw;
+        justify-content: space-around;
     }
 
 
