@@ -268,7 +268,7 @@ body{
     gap: 20px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 596px) {
 
    .container{
     display: flex;
